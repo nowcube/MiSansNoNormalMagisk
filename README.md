@@ -6,7 +6,7 @@
 
 由于模板只有9重字重，小米社区上释放的字体有10重字重，于是舍去Normal字重。
 
-#### [模块下载链接](./magisk-model/MiSansNoNormalMagisk.zip) 
+#### [模块下载链接](https://github.com/nowcube/MiSansNoNormalMagisk/releases/download/v1.0/MiSansNoNormalMagisk.zip) 
 
 
 [字体字重测试](https://font.yukonga.top/index.html)
