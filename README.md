@@ -1,0 +1,2 @@
+# MiSansNoNormalMagisk
+MiSans Magisk Module
